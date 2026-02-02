@@ -6,7 +6,7 @@
 
     <title>{{ config('app.name', 'ERP Inventario') }}</title>
 
-    <!-- Tailwind / Vite -->
+    {{-- Tailwind / Vite --}}
     @vite(['resources/css/app.css', 'resources/js/app.js'])
 </head>
 <body class="font-sans antialiased">
